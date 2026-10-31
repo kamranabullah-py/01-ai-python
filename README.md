@@ -12,7 +12,7 @@ I am a Student learning **AI & Python**. This repository is my daily learning lo
 - 🚧 **Day  ?  :** AI & Machine Learning Projects
 
 ### 🛠️ Tech Stack
-`Python` `Git` `GitHub` `VS Code`
+`Python` ,'AI'
 
 ### 📂 How to use?
 Every half-week I create a new folder like `Day-01/` and push my code.
