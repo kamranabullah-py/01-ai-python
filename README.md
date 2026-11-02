@@ -7,8 +7,8 @@
 I am a Student learning **AI & Python**. This repository is my daily learning log.
 
 ### 📚 What you will find here:
-- ✅ **Day 1+50:** Python Basics (Variables, Loops, Functions)
-- 🚧 **Day 51+ :** Intermediate Python
+- ✅ **Day 1+:** Python Basics (Variables, Loops, Functions)
+- 🚧 **Day  :** Intermediate Python
 - 🚧 **Day  ?  :** AI & Machine Learning Projects
 
 ### 🛠️ Tech Stack
