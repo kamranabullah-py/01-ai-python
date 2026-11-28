@@ -1,5 +1,6 @@
 
-
+#Introduction to For Loop in Python
+#A for loop in Python is used to repeat a block of code for each item in a sequence, such as a list, tuple, string, or range.
 
 for number in range(5):
     print(number)
